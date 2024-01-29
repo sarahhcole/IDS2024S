@@ -9,4 +9,4 @@
 **Level:** Undergraduate - Junior  
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](www.cdslab.org)    
-Photo: ![A photo of Sarah](https://images.wagwalkingweb.com/media/daily_wag/blog_articles/hero/1692605907.4906063/calico-cat.jpg) 
+Photo: ![A photo of Sarah](Profile_Picture.JPG) 
