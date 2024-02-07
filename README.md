@@ -17,3 +17,11 @@ This repository contains my homework, quizzes, and virtually every effort that I
 - [quiz](./quiz): This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.
 - [exam](./exam): This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.  
 
+> I have not failed. I have just found 1000 ways that won't work.  
+> Thomas Edison
+
+
+For questions and troubleshooting, contact:  
+Sarah Cole  
+sec5607@mavs.uta.edu  
+University of Texas at Arlington  
