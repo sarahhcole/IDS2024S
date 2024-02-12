@@ -1,3 +1,4 @@
+1. Completed.  
 2. We use .md, which stands for Markdown, and it is used because it allows us to use Markdown syntax to to style and format text.
 3. No  
 4. Yes  
