@@ -24,7 +24,7 @@
 25. BCPL  
 26. B  
 27. An ancestor of MATLAB is Fortran, and an ancestor of Python is ABC.  
-28. 1638. For this, I used the equation S= n/2(a1+n) which, in this equation is 33/2(3+99).    
+28. The answer is 1638. For this, I used the equation S= n/2(a1+n) which, in this equation is 33/2(3+99).    
 29. Logarithm basically tells you how many times you need to multiply the base number by itself to get the desired result.  
 30. Magnetic tapes have longer lifespan of about 10-30 years in comparison to HDD, which only last baout 3-5 years.    
 31. The Jacquard loom.  
