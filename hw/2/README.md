@@ -1,4 +1,4 @@
-1. a) [Here is the PDF of the filled in graph of programming languages.](../progLangChartPuzzle.pdf)   
+1. a) [Here is the PDF of the filled in graph of programming languages.](progLangChartPuzzle.pdf)   
   b) Fortran, Lisp, Algol 58, Basic, C, sh, C++, Python, Java, Fortran 90, JavaScript, C#  
   c) lisp: 1958, basic: 1964, Algol 58: 1958, C: 1971, FORTRAN: 1954, Fortran 90: 1991, Python: 1991, C++: 1983, C#: 2000, Java:1991, JavaScript: 1995, sh: 1971
 2. Electronic Numerical Integrator and Computer.
