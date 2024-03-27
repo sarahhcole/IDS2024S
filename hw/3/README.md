@@ -4,4 +4,8 @@
 4.	It is raining;  therefore it is cloudy.
 5.	If the police man hears a burglar alarm, and he sees the man crawling out of the window with a bag of stolen jewelry, then it is plausible that he is dishonest.
 6. [Here is my answer to question 6.](Question6.JPG)
-7. 
+7. [Here is my answer to question 7.](Question7.JPG)
+8. [Here is my answer to question 8.](Question8.JPG)
+9. [Here is my answer to question 9.](Question9.JPG)
+10. [Here is my answer to question 10.](Question10.JPG)
+11. [Here is my answer to question 11.](Question11.JPG)
