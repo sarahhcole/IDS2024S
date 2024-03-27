@@ -1,4 +1,4 @@
-1.
+1. Prediction, validation, calibration. 
 2.  The three pillars of science are experiment/observations, theory/physical models, and computational/data-driven models.
 3. Three major applications of computational are predictive computing, numerical simulation, data-driven discovery via machine learning
 4. Deductive and plausible reasoning. An example of deductive reasoning: It is raining, therefore it is cloudy. An example of plausible reasoning: it is cloudy, therefore it is plausible that it will rain.
@@ -10,3 +10,9 @@
 10. [Click here](quiz3pt1.JPG)
 11. [Click here](quiz3pt1.JPG)
 12. [Click here](quiz3pt1.JPG)
+13. b
+14. b
+15. b
+16. b
+17. 
+18. Yes, this was a fair quiz. While it was difficult, we had all of the information needed to answer all questions at our disposal.
