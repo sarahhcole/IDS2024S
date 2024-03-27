@@ -3,4 +3,4 @@
 3.	Deductive and plausible reasoning. An example of deductive reasoning: It is raining, therefore it is cloudy. An example of plausible reasoning: it is cloudy, therefore it is plausible that it will rain.
 4.	It is raining;  therefore it is cloudy.
 5.	If the police man hears a burglar alarm, and he sees the man crawling out of the window with a bag of stolen jewelry, then it is plausible that he is dishonest.
-6.	 
+6. [Here is my answer to question 6.](Question6.jpeg)	 
