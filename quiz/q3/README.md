@@ -6,7 +6,7 @@
 6. George Boole.
 7. [Click here](quiz3part1.JPG)
 8. [Click here](quiz3part1.JPG)
-9. The equal sign is used ot denote equal truth value.
+9. The equal sign is used to denote equal truth value.
 10. [Click here](quiz3part1.JPG)
 11. [Click here](quiz3part1.JPG)
 12. [Click here](quiz3part1.JPG)
