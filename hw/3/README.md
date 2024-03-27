@@ -9,6 +9,6 @@
 9. [Here is my answer to question 9.](Question9.jpg)
 10. [Here is my answer to question 10.](Question10.jpg)
 11. [Here is my answer to question 11.](Question11.jpg)
-12. a. a bit.
-    b. 0 and 1 are easy to represent.
-    c. There are 8 possibilities. [Here is my work.](Question12c.jpg)
+12. a. a bit.  
+    b. 0 and 1 are easy to represent.   
+    c. There are 8 possibilities. [Here is my work.](Question12c.jpg)  
