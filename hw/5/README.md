@@ -17,5 +17,5 @@ Cyclic color scales: Used for data that cycles through a range, such as angles o
 14. 1) [Click here](Chart1Homework5.png) 
     2) The average temperature of Duluth is 40 degrees, whereas Honolulu’s is 77 degrees; therefore, Honolulu is hotter on average than Duluth.
     3) The standard deviation of Duluth is 21.38 degrees, whereas Honolulu’s is 3.40 degrees; therefore, Duluth has a greater variance of temperature than Honolulu.
-15. 
+15. [Click here](Chart2Homework5.png) 
 
