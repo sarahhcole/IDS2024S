@@ -15,4 +15,5 @@
 15. a) qualitative color scale, b) Sequential color scale, c) diverging color scale d) accent color scale.
 16. An accent color scale was used for this model.
 17. The highest number on the vertical axis is lower than the highest bar in the chart, making it look messy and difficult to read.
-18. [Click here](Chart1Quiz5.Jpg)
+18. [Click here](Chart1Quiz5.jpg)
+19. Just by looking at the graph, I can tell that the temperature will likely increase in the following decades. I think that in 2050, the Earth will be about 1.75 degrees celcius with respect to the average temperature during 1951-1980.
