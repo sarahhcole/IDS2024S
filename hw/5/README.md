@@ -14,7 +14,7 @@ Qualitative color scales: Suitable for categorical data where no order or rankin
 Cyclic color scales: Used for data that cycles through a range, such as angles or times of day. These scales loop back on themselves in a circular manner.  
 12. The range of density values on the y-axis is significantly smaller than the range of ages on the x-axis. This is misleading as it can lead to misinterpretation of the data as it exaggerates the data visualization to make the differences appear more extreme.
 13. The first color pallet that goes from red to green is more effective for humans.
-14. 1) [Click here](Chart1Homework5.Jpg) 
+14. 1) [Click here](Chart1Homework5.png) 
     2) The average temperature of Duluth is 40 degrees, whereas Honolulu’s is 77 degrees; therefore, Honolulu is hotter on average than Duluth.
     3) The standard deviation of Duluth is 21.38 degrees, whereas Honolulu’s is 3.40 degrees; therefore, Duluth has a greater variance of temperature than Honolulu.
 15. 
